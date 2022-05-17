@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![YeoPEVA's github-readme-stats](https://github-readme-stats.vercel.app/api?username=YeoPEVA&theme=dracula&show_icons=true&count_private=true)](https://github.com/YeoPEVA)
-
 DFIR & Reversing & Threat intelligence 분야에 관심을 가지고 공부하고 있는 학부생입니다.
 
 YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성장하는 것을 목표로 하고 있습니다.
