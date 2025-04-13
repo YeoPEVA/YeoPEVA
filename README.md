@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 [![YeoPEVA Solve.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=YeoPEVA)](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=YeoPEVA)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YeoPEVA&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/YeoPEVA"
+  width="600"
+  height="300"
+/>
+</a>
+
 </details>
 
 ### INFO ###
