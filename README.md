@@ -34,6 +34,14 @@ Here are some ideas to get you started:
 />
 </a>
 
+<br>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeopeva&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeopeva&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </details>
 
 ### INFO ###
