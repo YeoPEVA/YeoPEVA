@@ -46,13 +46,19 @@ Here are some ideas to get you started:
 
 ### INFO ###
 
-정보보호 (CERT)에서 백엔드 개발자가 되기 위해 다시 달리고 있는 학부생입니다.
+(KR)
+DFIR(디지털 포렌식 & 침해사고대응) 전문가를 목표로 삼고, 활동중인 학부생입니다.
 
-YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성장하는 것을 목표로 하고 있습니다.
+닉네임은 YeoPEVA이며, 빠르지 않더라도 꾸준한 성장을 목표로 하고 있습니다.
 
-주요 관심사는 백엔드, DevOps, DevSecOps이며, DFIR 및 CTI에 또한 관심을 가지고 있습니다.
+주 관심사는 DFIR & CTI이며, 침해사고대응 역량 강화를 위해 백엔드/DevOps/DevSecOps 지식을 함께 쌓고 있습니다.
 
-단순히 동작하는 서비스를 만들기보다는, 보다 안전하고 쾌적한 서비스를 제작하기 위해 노력하고 있습니다. 
+(EN)
+I am an undergraduate student who is actively working toward becoming a DFIR (Digital Forensics & Incident Response) professional.
+
+I go by YeoPEVA, and my goal is to grow steadily, even if not quickly.
+
+My primary interests are DFIR & CTI, and I am building Backend/DevOps/DevSecOps skills to strengthen my incident response capabilities.
 
 https://info.yeopeva.me/
 
