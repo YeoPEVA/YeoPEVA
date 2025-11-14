@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 DFIR(디지털 포렌식 & 침해사고대응) 전문가를 목표로 삼고, 활동중인 학부생입니다.
 
-닉네임은 YeoPEVA이며, 빠르지 않더라도 꾸준한 성장을 목표로 하고 있습니다.
+YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성장하는 것을 목표로 하고 있습니다.
 
 주 관심사는 DFIR & CTI이며, 침해사고대응 역량 강화를 위해 백엔드/DevOps/DevSecOps 지식을 함께 쌓고 있습니다.
 
