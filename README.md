@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 </details>
 
-### INFO ###
+## INFO ##
 
-(KR)
+### KR ###
 
 DFIR(디지털 포렌식 & 침해사고대응) 전문가를 목표로 삼고, 활동중인 학부생입니다.
 
@@ -54,7 +54,7 @@ YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성
 
 주 관심사는 DFIR & CTI이며, 침해사고대응 역량 강화를 위해 백엔드/DevOps/DevSecOps 지식을 함께 쌓고 있습니다.
 
-(EN)
+### EN ###
 
 I am an undergraduate student who is actively working toward becoming a DFIR (Digital Forensics & Incident Response) professional.
 
@@ -64,7 +64,7 @@ My primary interests are DFIR & CTI, and I am building Backend/DevOps/DevSecOps 
 
 https://info.yeopeva.me/
 
-### 🏫 Education
+## 🏫 Education
 <details> <summary></summary>
 
  - 2025.02 ~ 순천향대학교, 정보보호학과 전공
@@ -75,9 +75,12 @@ https://info.yeopeva.me/
  
  </details>
 
-### 🏆 Awards
+## 🏆 Awards
 <details> <summary></summary>
 
+- 2025, 제 11회 디지털 범인을 찾아라 (장려상)
+- 2025, 제1회 영남권 사이버 공격 방어 대회(대학팀) (우수상)
+- 2025, 2025 대학간 침해대응/분석 경진대회- HCCC 2025 (우수상)
 - 2024, 제 10회 디지털 범인을 찾아라 (장려상)
 - 2024, 2024 대학간 침해대응/분석 경진대회- HCCC 2024 (장려상)
 - 2023, 제 9회 디지털 범인을 찾아라 (장려상) 
