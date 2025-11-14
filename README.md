@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ### INFO ###
 
 (KR)
+
 DFIR(디지털 포렌식 & 침해사고대응) 전문가를 목표로 삼고, 활동중인 학부생입니다.
 
 닉네임은 YeoPEVA이며, 빠르지 않더라도 꾸준한 성장을 목표로 하고 있습니다.
@@ -54,6 +55,7 @@ DFIR(디지털 포렌식 & 침해사고대응) 전문가를 목표로 삼고, �
 주 관심사는 DFIR & CTI이며, 침해사고대응 역량 강화를 위해 백엔드/DevOps/DevSecOps 지식을 함께 쌓고 있습니다.
 
 (EN)
+
 I am an undergraduate student who is actively working toward becoming a DFIR (Digital Forensics & Incident Response) professional.
 
 I go by YeoPEVA, and my goal is to grow steadily, even if not quickly.
